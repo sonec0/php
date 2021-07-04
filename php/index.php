@@ -1,0 +1,5 @@
+<?php
+
+  acho "hello word ";
+
+?>
